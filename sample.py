@@ -6,3 +6,4 @@ def test_answer():
 def test_answer1():
     assert func(3) == 5
 print("")
+print("123")
